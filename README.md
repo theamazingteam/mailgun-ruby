@@ -3,6 +3,8 @@ Mailgun-Ruby
 
 [![Build Status](https://travis-ci.org/mailgun/mailgun-ruby.svg?branch=master)](https://travis-ci.org/mailgun/mailgun-ruby) [![Gem Version](https://badge.fury.io/rb/mailgun-ruby.svg)](http://badge.fury.io/rb/mailgun-ruby)
 
+** 🚧 This fork implements the latest fix mentioned in [mailgun/mailgun-ruby#162](https://github.com/mailgun/mailgun-ruby/pull/162) and is just a temporary fork until that PR is merged back to the main repo.**
+
 This is the Mailgun Ruby Library. This library contains methods for easily interacting
 with the Mailgun API.
 Below are examples to get you started. For additional examples, please see our
